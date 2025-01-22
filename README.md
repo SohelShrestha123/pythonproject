@@ -2,4 +2,4 @@
 
 This is my python project.
 <br>
-Sohel Shrestha Author
+Sohel Shrestha<br> Author
